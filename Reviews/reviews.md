@@ -1,6 +1,6 @@
-**Note: Scroll to the right end for notes of each review**
-
 Full version in biteScraperXLS.xlsx
+
+**Note: Scroll to the right end for notes of each review**
 ------
 
 | Company                                                              | Country        | App Usage                    |   Stars | Review                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | People                   | Notes                                                                              | Feedback                                                                                                                   |
